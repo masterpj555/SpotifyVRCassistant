@@ -1,7 +1,8 @@
 # SpotifyVRCassistant
-Matches spotify tracks with youtube links.
-
 My first repo so excuse me for any publication, formatting issues.
+
+
+Matches spotify tracks with youtube links.
 
 This program is mostly aimed at VRChat where sharing music in the world has to happen through youtube.
 
