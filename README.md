@@ -15,39 +15,24 @@ Features:
 
 How to use:
 
-.
-
-Go to:
+1. Go to:
 https://developer.spotify.com/dashboard/
 
 
-2. 
-
-Log in with your existing spotify account
+2. Log in with your existing spotify account
 
 
-3. 
+3. Press "Create App"
 
-Press "Create App"
+4. Add a random App name
+   Add a random description
+   Add a random redirect url (I used: https://www.google.com) It is important your url is https.
+   Agree to the terms and save
 
-4.
+5. Go to the app in the dashboard and copy the Client ID and paste it into the program
+   Click "View client Secret"
+   Copy the client secret
+   Paste the client secret into the program.
 
-Add a random App name
-Add a random description
-Add a random redirect url (I used: https://www.google.com) It is important your url is https.
-
-Agree to the terms and save
-
-5. 
-
-Go to the app in the dashboard and copy the Client ID and paste it into the program
-
-Click "View client Secret"
-
-Copy the client secret
-Paste the client secret into the program.
-
-6.
-
-You are now ready to use the program.
-Auto clipboard is suggested when using it for VR/VRchat
+6. You are now ready to use the program.
+   Auto clipboard is suggested when using it for VR/VRchat
