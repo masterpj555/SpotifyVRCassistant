@@ -16,23 +16,37 @@ Features:
 How to use:
 
 1. Download the Exe: SpotifyToYouTube.exe
+   
    Go to: https://developer.spotify.com/dashboard/
 
-2. Log in with your existing spotify account
 
-3. Press "Create App"
+3. Log in with your existing spotify account
 
-4. Add a random App name
+
+4. Press "Create App"
+
+
+6. Add a random App name
+   
    Add a random description
+   
    Add a random redirect url (I used: https://www.google.com) It is important your url is https.
+   
    Agree to the terms and save
 
-5. Go to the app in the dashboard and copy the Client ID and paste it into the program
+
+7. Go to the app in the dashboard and copy the Client ID and paste it into the program
+   
    Click "View client Secret"
+   
    Copy the client secret
+   
    Paste the client secret into the program.
 
-6. You are now ready to use the program.
+
+9. You are now ready to use the program.
+    
    Auto clipboard is suggested when using it for VR/VRchat
+
 
 # Do not share your API key with anyone else. Transferring the exe to someone else does not expose your API keys
