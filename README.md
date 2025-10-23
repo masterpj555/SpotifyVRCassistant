@@ -16,7 +16,7 @@ Features:
 
 How to use:
 
-1. Download the Exe: SpotifyToYouTube.exe
+1. Download the Exe: SpotifyToYouTube.exe (found in the releases section)
    
    Go to: https://developer.spotify.com/dashboard/
 
