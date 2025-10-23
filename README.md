@@ -15,12 +15,10 @@ Features:
 
 How to use:
 
-1. Go to:
-https://developer.spotify.com/dashboard/
-
+1. Download the Exe: SpotifyToYouTube.exe
+   Go to: https://developer.spotify.com/dashboard/
 
 2. Log in with your existing spotify account
-
 
 3. Press "Create App"
 
