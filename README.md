@@ -3,7 +3,8 @@ Matches spotify tracks with youtube links.
 
 My first repo so excuse me for any publication, formatting issues.
 
-This program is mostly aimed at VRChat where sharing music in the world has to happen through youtube
+This program is mostly aimed at VRChat where sharing music in the world has to happen through youtube.
+
 This program takes the track and artist name of spotify and tries to match it with youtube search result, giving you a youtube link of the first matching result.
 
 Features:
